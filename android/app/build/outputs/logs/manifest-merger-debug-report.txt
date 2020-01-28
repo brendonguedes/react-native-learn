@@ -1,22 +1,22 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [:@react-native-community_masked-view] /home/brendonguedes/modulo06/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-gesture-handler] /home/brendonguedes/modulo06/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-reanimated] /home/brendonguedes/modulo06/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-safe-area-context] /home/brendonguedes/modulo06/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-screens] /home/brendonguedes/modulo06/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/2ba3763e12f82eac22aafaff2bdc47ab/AndroidManifest.xml:2:1-13:12
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_masked-view] /home/brendonguedes/react-native-learn/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/brendonguedes/react-native-learn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/brendonguedes/react-native-learn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/brendonguedes/react-native-learn/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/brendonguedes/react-native-learn/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/5b3a2bf5a678137cbebce150c32b6281/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/85b757bdcf51af141613277a661e0ee9/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/92c33d4a2372f0e0bca4ad4bcbc6a77c/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/dc040fd3fba5f483572e192cffdf6e53/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/56aed41f12f47367fb5cc736ca91a1cb/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/1f1c6bf38d18ad67a1c86baa09f50a70/AndroidManifest.xml:17:1-24:12
-MERGED from [org.webkit:android-jsc:r245459] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/db349ab0968d526232e552926ff6c65f/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/227102d42772f404bfafc52c6bada8f9/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/4d6c14ca734303650eb512a0dafc4091/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/59175975b8b8785834a0819b5ebf1780/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:drawee:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/eff42b4e04a5b784750ce7b4daeb92ad/AndroidManifest.xml:2:1-9:12
@@ -54,36 +54,36 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/brendonguedes/.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/0cd0621a0f8e6c2ef432ab5216aedba4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/7e4f63b75022cda4ed53487ce617225d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/c4b4392f4783621c15e17554b979df66/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:2:3-25
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/2ba3763e12f82eac22aafaff2bdc47ab/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/2ba3763e12f82eac22aafaff2bdc47ab/AndroidManifest.xml:11:5-20
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/5b3a2bf5a678137cbebce150c32b6281/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/5b3a2bf5a678137cbebce150c32b6281/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/85b757bdcf51af141613277a661e0ee9/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/85b757bdcf51af141613277a661e0ee9/AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/228317f98d073262866729e591b4fd7d/AndroidManifest.xml:11:5-20
@@ -95,69 +95,69 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/brend
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/beced79b9df0dc5c98b0a607748ae389/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:8:7-39
 	tools:ignore
-		ADDED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:10:7-52
 	tools:targetApi
-		ADDED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:usesCleartextTraffic
-		ADDED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:7:7-38
 activity#com.modulo06.MainActivity
-ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml
-MERGED from [:@react-native-community_masked-view] /home/brendonguedes/modulo06/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_masked-view] /home/brendonguedes/modulo06/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /home/brendonguedes/modulo06/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /home/brendonguedes/modulo06/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /home/brendonguedes/modulo06/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /home/brendonguedes/modulo06/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-safe-area-context] /home/brendonguedes/modulo06/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /home/brendonguedes/modulo06/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-screens] /home/brendonguedes/modulo06/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-screens] /home/brendonguedes/modulo06/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/2ba3763e12f82eac22aafaff2bdc47ab/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/2ba3763e12f82eac22aafaff2bdc47ab/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_masked-view] /home/brendonguedes/react-native-learn/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /home/brendonguedes/react-native-learn/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/brendonguedes/react-native-learn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/brendonguedes/react-native-learn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/brendonguedes/react-native-learn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/brendonguedes/react-native-learn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/brendonguedes/react-native-learn/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/brendonguedes/react-native-learn/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/brendonguedes/react-native-learn/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/brendonguedes/react-native-learn/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/5b3a2bf5a678137cbebce150c32b6281/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/5b3a2bf5a678137cbebce150c32b6281/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/85b757bdcf51af141613277a661e0ee9/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/85b757bdcf51af141613277a661e0ee9/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/92c33d4a2372f0e0bca4ad4bcbc6a77c/AndroidManifest.xml:20:5-22:41
@@ -168,8 +168,8 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/brendonguedes/.
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/56aed41f12f47367fb5cc736ca91a1cb/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/1f1c6bf38d18ad67a1c86baa09f50a70/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/1f1c6bf38d18ad67a1c86baa09f50a70/AndroidManifest.xml:20:5-22:41
-MERGED from [org.webkit:android-jsc:r245459] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/db349ab0968d526232e552926ff6c65f/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/db349ab0968d526232e552926ff6c65f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/227102d42772f404bfafc52c6bada8f9/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/227102d42772f404bfafc52c6bada8f9/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/4d6c14ca734303650eb512a0dafc4091/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/4d6c14ca734303650eb512a0dafc4091/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/59175975b8b8785834a0819b5ebf1780/AndroidManifest.xml:5:5-7:41
@@ -244,15 +244,15 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/brendonguedes/.gradle/
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/7e4f63b75022cda4ed53487ce617225d/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/c4b4392f4783621c15e17554b979df66/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/brendonguedes/.gradle/caches/transforms-2/files-2.1/c4b4392f4783621c15e17554b979df66/AndroidManifest.xml:5:5-7:41
-INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /home/brendonguedes/modulo06/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /home/brendonguedes/react-native-learn/android/app/src/debug/AndroidManifest.xml:5:22-75

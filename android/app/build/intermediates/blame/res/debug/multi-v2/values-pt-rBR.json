@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/brendonguedes/modulo06/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/home/brendonguedes/react-native-learn/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/brendonguedes/.gradle/caches/transforms-2/files-2.1/beced79b9df0dc5c98b0a607748ae389/res/values-pt-rBR/values-pt-rBR.xml",
