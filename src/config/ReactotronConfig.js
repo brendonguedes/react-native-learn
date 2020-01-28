@@ -7,5 +7,5 @@ if (__DEV__) {
 
   console.tron = tron;
 
-  tron.clear();
+  // tron.clear(); está opção limpa o cache toda vez que reinicia o Reactotron //
 }

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Keyboard } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import api from '../../services/api';
 
@@ -24,8 +25,10 @@ export default class Main extends Component {
 
     this.setState({
       users: [...users, data],
-      newUsers: '',
+      newUser: '',
     });
+
+    Keyboard.dismiss();
   };
 
   render() {
