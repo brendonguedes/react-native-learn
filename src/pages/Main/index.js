@@ -1,3 +1,7 @@
+/* eslint-disable react/static-property-placement */
+/* eslint-disable no-undef */
+/* eslint-disable react/sort-comp */
+// eslint-disable-next-line no-undef
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Keyboard, ActivityIndicator } from 'react-native';
@@ -30,11 +34,15 @@ export default class Main extends Component {
     }).isRequired,
   };
 
-  state = {
-    newUser: '',
-    users: [],
-    loading: false,
-  };
+  constructor() {
+    super();
+
+    state = {
+      newUser: '',
+      users: [],
+      loading: false,
+    };
+  }
 
   async componentDidMount() {
     console.tron.log(this.props);
